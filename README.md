@@ -20,3 +20,8 @@ https://redblaze908s.wixsite.com/redblaze908-site/about-8
 
 # MOST IMPORTANT:
 this programming language will develop with time thanks to the help of the people who will use it, so for ideas of functions to add, bugs or whatever don't hesitate to leave an "Issues" with things to add or bug fix. alternatively there is also in my discord server the possibility to be able to write and talk about it (you can find the server invitation in my github profile page)
+
+### Copyright
+All language is copyrighted so taking, copying, passing off as your own the language without asking is strictly forbidden, for anything that implies this or wanting to do a project like incorporating my language somewhere ASK for permission.
+
+For the creation of app projects or any other stuff with it it is possible to do what you want as well as video inherent to it although as already said do not pass it off as your own
