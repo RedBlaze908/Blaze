@@ -24,4 +24,6 @@ this programming language will develop with time thanks to the help of the peopl
 ### Copyright
 All language is copyrighted so taking, copying, passing off as your own the language without asking is strictly forbidden, for anything that implies this or wanting to do a project like incorporating my language somewhere ASK for permission.
 
+if you liked the project ho interested you why not leave it a star? thank you to all who will <3
+
 For the creation of app projects or any other stuff with it it is possible to do what you want as well as video inherent to it although as already said do not pass it off as your own
